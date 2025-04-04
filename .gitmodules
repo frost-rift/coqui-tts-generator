@@ -1,0 +1,4 @@
+[submodule "tts-trainer"]
+	path = tts-trainer
+	url = https://github.com/frost-rift/tts-trainer.git
+	branch = main
